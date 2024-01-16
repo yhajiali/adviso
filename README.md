@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/advice-generator-app-VB0JTlWYyG)
-- Live Site URL: [Add live site URL here](https://yh-adviso.vercel.app)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/advice-generator-app-VB0JTlWYyG)
+- Live Site URL: [Adviso](https://yh-adviso.vercel.app)
 
 ### Built with
 
