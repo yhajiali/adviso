@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Yusuf Haji-Ali](https://www.yhajiali.vercel.app)
+- Website - [Yusuf Haji-Ali](https://yhajiali.com)
 - Frontend Mentor - [@yhajiali](https://www.frontendmentor.io/profile/yhajiali)
